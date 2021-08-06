@@ -1,3 +1,6 @@
+" 行数をつける
+set number
+
 " jjで編集を抜ける
 inoremap <silent> jj <ESC>
 inoremap <silent> ｊｊ <ESC>
